@@ -1,9 +1,9 @@
 eureka:
   instance:
-    hostname: bankati-config-server.onrender.com
+    hostname: ms-config.onrender.com
   client:
     service-url:
-      defaultZone: https://bankati-discovery.onrender.com/eureka
+      defaultZone: https://ms-discovery.onrender.com/eureka
 
 spring:
   cloud:

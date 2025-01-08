@@ -13,8 +13,8 @@ server:
 
 application:
   config:
-    users-url: https://user-sumh.onrender.com/api/v1/users
-    wallet-url: https://walletservice-6ubo.onrender.com/api/v1/wallet
-    transactions-url: https://transactionservice-pyd7.onrender.com/api/v1/transactions
-    servicestiers-url: https://servicestier.onrender.com/api/v1/servicestiers
+    wallet-url: https://walletservice-ikcz.onrender.com/api/v1/wallet
+    users-url: https://bankatii-user-server.onrender.com/api/v1/users
+    transactions-url: https://bankatii-transactionservice-server.onrender.com/api/v1/transactions
+    servicestiers-url: https://bankatii-servicestier-server.onrender.com/api/v1/servicestiers
 

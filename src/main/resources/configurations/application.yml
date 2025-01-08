@@ -3,7 +3,7 @@ eureka:
     hostname: bankatii-config-server.onrender.com
   client:
     service-url:
-      defaultZone: https://bankati-discovery.onrender.com/eureka
+      defaultZone: https://bankatii-discovery-server.onrender.com/eureka
 
 spring:
   cloud:

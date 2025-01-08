@@ -13,9 +13,9 @@ server:
 
 application:
   config:
-    wallet-url: https://walletservice-ikcz.onrender.com/api/v1/wallet
-    walletcrypto-url: https://walletcryptoservice.onrender.com/api/v1/walletcrypto
-    virtualCard-url: https://bankatii-virtualcardservice-server/api/v1/virtualcard
+    wallet-url: https://bankatii-wallet-service.onrender.com/api/v1/wallet
+    walletcrypto-url: https://bankatii-walletcrypto-service.onrender.com/api/v1/walletcrypto
+    virtualCard-url: https://bankatii-virtualcardservice-server.onrender.com/api/v1/virtualcard
     transactions-url: https://bankatii-transactionservice-server.onrender.com/api/v1/transactions
     servicestiers-url: https://bankatii-servicestier-server.onrender.com/api/v1/servicestiers
 

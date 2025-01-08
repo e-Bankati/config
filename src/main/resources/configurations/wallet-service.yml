@@ -13,7 +13,7 @@ server:
 application:
   config:
     users-url: https://bankatii-user-server.onrender.com/api/v1/users
-    virtualCard-url: https://bankatii-virtualcardservice-server/api/v1/virtualcard
+    virtualCard-url: https://bankatii-virtualcardservice-server.onrender.com/api/v1/virtualcard
     transactions-url: https://bankatii-transactionservice-server.onrender.com/api/v1/transactions
     servicestiers-url: https://bankatii-servicestier-server.onrender.com/api/v1/servicestiers
 

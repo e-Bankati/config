@@ -13,7 +13,7 @@ server:
 
 application:
   config:
-    wallet-url: https://walletservice-ikcz.onrender.com/api/v1/wallet
+    wallet-url: https://bankatii-wallet-service.onrender.com/api/v1/wallet
     users-url: https://bankatii-user-server.onrender.com/api/v1/users
     transactions-url: https://bankatii-transactionservice-server.onrender.com/api/v1/transactions
     servicestiers-url: https://bankatii-servicestier-server.onrender.com/api/v1/servicestiers
